@@ -2,13 +2,13 @@ import React from 'react';
 
 const Home = () => (
   <div className="home-container">
-    <div className="home-title">📚 Welcome to the Library SOA System</div>
+    <div className="home-title">📚 Welcome to the Library Management System-SOA</div>
     <div className="home-lead">
       Manage books, users, borrow/return operations, and fines—all in one place.
     </div>
     <img
       className="home-logo"
-      src="https://img.freepik.com/free-vector/flat-design-library-logo-template_23-2149326939.jpg"
+      src="https://www.edusys.co/images/library.png"
       alt="Library"
     />
     <div className="home-quicknav">
